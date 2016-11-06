@@ -2,7 +2,10 @@
 
 ## Install git
 #sudo apt-get install git
-#
+#ssh-keygen -t rsa -C "leon199407@gmail.com"
+#gedit ~/.ssh/id_rsa.pub
+#git config --global user.email "leo@gmail.com"
+#git config --global user.name "leo"
 ## Install oh-my-zsh
 #sudo apt-get install zsh
 #chsh -s /bin/zsh
