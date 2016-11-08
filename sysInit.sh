@@ -48,4 +48,13 @@
 #sudo curl -O https://raw.githubusercontent.com/vince67/v7_config/master/vim.sh
 #bash vim.sh
 
+#sudo apt-get install mysql-server
+#sudo apt-get install mysql-client
+#sudo apt-get install python-mysqldb
+
+##install Code::Blocks
+#sudo add-apt-repository ppa:damien-moore/codeblocks-stable
+#sudo apt-get update
+#sudo apt-get install codeblocks codeblocks-contrib
+
 
